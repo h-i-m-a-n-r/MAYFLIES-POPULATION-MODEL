@@ -12,9 +12,9 @@ The goal is to analyze how population behavior changes over time based on differ
 
 The population evolves according to:
 
-[
-y_n = b(1 - y_{n-1})y_{n-1}
-]
+$$
+y_n = b(1 - y_{n-1}) y_{n-1}
+$$
 
 Where:
 
